@@ -1,0 +1,227 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7700 Series (ID=0x665c)
+    Vendor:   ATI
+    VRAM:     999 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Michael\Desktop\Reignite_Rhythm\Build\PC\Reignite_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Michael\Desktop\Reignite_Rhythm\Build\PC\Reignite_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Michael\Desktop\Reignite_Rhythm\Build\PC\Reignite_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Michael\Desktop\Reignite_Rhythm\Build\PC\Reignite_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Michael\Desktop\Reignite_Rhythm\Build\PC\Reignite_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Michael\Desktop\Reignite_Rhythm\Build\PC\Reignite_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Michael\Desktop\Reignite_Rhythm\Build\PC\Reignite_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Michael\Desktop\Reignite_Rhythm\Build\PC\Reignite_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.130 seconds
+desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Michael\Desktop\Reignite_Rhythm\Build\PC\Reignite_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Michael\Desktop\Reignite_Rhythm\Build\PC\Reignite_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\Michael\Desktop\Reignite_Rhythm\Build\PC\Reignite_Data\Managed\System.dll (this message is harmless)
+Loading PlayerInfo.xml @ 
+C:/Users/Michael/AppData/LocalLow/Reignite Development Team/Reignite/Info.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.072355 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 449.
+Total: 0.584222 ms (FindLiveObjects: 0.034711 ms CreateObjectMapping: 0.036666 ms MarkObjects: 0.405288 ms  DeleteObjects: 0.011733 ms)
+
+Overwriting player information @ 
+C:/Users/Michael/AppData/LocalLow/Reignite Development Team/Reignite/Info.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.722133 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.362755 ms (FindLiveObjects: 0.026888 ms CreateObjectMapping: 0.026400 ms MarkObjects: 0.293822 ms  DeleteObjects: 0.006844 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.198488 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 476.
+Total: 0.380355 ms (FindLiveObjects: 0.035200 ms CreateObjectMapping: 0.020044 ms MarkObjects: 0.308977 ms  DeleteObjects: 0.007822 ms)
+
+Overwriting player information @ 
+C:/Users/Michael/AppData/LocalLow/Reignite Development Team/Reignite/Info.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.265466 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.326577 ms (FindLiveObjects: 0.027377 ms CreateObjectMapping: 0.018088 ms MarkObjects: 0.266933 ms  DeleteObjects: 0.006355 ms)
+
+Overwriting player information @ 
+C:/Users/Michael/AppData/LocalLow/Reignite Development Team/Reignite/Info.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.225377 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 543.
+Total: 0.415066 ms (FindLiveObjects: 0.031777 ms CreateObjectMapping: 0.020044 ms MarkObjects: 0.346133 ms  DeleteObjects: 0.009777 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.624311 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 983.
+Total: 0.753866 ms (FindLiveObjects: 0.052311 ms CreateObjectMapping: 0.030311 ms MarkObjects: 0.646800 ms  DeleteObjects: 0.016133 ms)
+
+WarmUp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+WarmUp_Advanced.xml Not Found @ Assets/Resources/Song Data/WarmUp_Advanced.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.251600 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 717.
+Total: 0.589600 ms (FindLiveObjects: 0.038133 ms CreateObjectMapping: 0.026400 ms MarkObjects: 0.488400 ms  DeleteObjects: 0.026400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.387688 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 635.
+Total: 0.483511 ms (FindLiveObjects: 0.032755 ms CreateObjectMapping: 0.025422 ms MarkObjects: 0.396977 ms  DeleteObjects: 0.018088 ms)
+
+Overwriting player information @ 
+C:/Users/Michael/AppData/LocalLow/Reignite Development Team/Reignite/Info.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.243466 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 617.
+Total: 0.493777 ms (FindLiveObjects: 0.075777 ms CreateObjectMapping: 0.046933 ms MarkObjects: 0.351022 ms  DeleteObjects: 0.009777 ms)
+
+Overwriting player information @ 
+C:/Users/Michael/AppData/LocalLow/Reignite Development Team/Reignite/Info.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.217555 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 695.
+Total: 0.495733 ms (FindLiveObjects: 0.031777 ms CreateObjectMapping: 0.032755 ms MarkObjects: 0.414088 ms  DeleteObjects: 0.008311 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.388177 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1091.
+Total: 0.907866 ms (FindLiveObjects: 0.127600 ms CreateObjectMapping: 0.026400 ms MarkObjects: 0.723066 ms  DeleteObjects: 0.020533 ms)
+
+Arthur
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Arthur_Beginner.xml Not Found @ Assets/Resources/Song Data/Arthur_Beginner.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.913556 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 714.
+Total: 0.505511 ms (FindLiveObjects: 0.037155 ms CreateObjectMapping: 0.026888 ms MarkObjects: 0.417022 ms  DeleteObjects: 0.016622 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.418488 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 635.
+Total: 0.475200 ms (FindLiveObjects: 0.047911 ms CreateObjectMapping: 0.025422 ms MarkObjects: 0.374488 ms  DeleteObjects: 0.017600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.261066 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 615.
+Total: 0.481066 ms (FindLiveObjects: 0.074311 ms CreateObjectMapping: 0.041555 ms MarkObjects: 0.348088 ms  DeleteObjects: 0.006355 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeOrientation.OnHover (Boolean bIsOver) [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UICamera:Notify(GameObject, String, Object)
+UICamera:Highlight(GameObject, Boolean)
+UICamera:ProcessMouse()
+UICamera:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeOrientation.OnHover (Boolean bIsOver) [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UICamera:Notify(GameObject, String, Object)
+UICamera:ProcessTouch(Boolean, Boolean)
+UICamera:ProcessMouse()
+UICamera:Update()
+ 
+(Filename:  Line: -1)
+
+Overwriting player information @ 
+C:/Users/Michael/AppData/LocalLow/Reignite Development Team/Reignite/Info.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.247866 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 631.
+Total: 0.533866 ms (FindLiveObjects: 0.080177 ms CreateObjectMapping: 0.047422 ms MarkObjects: 0.388177 ms  DeleteObjects: 0.006355 ms)
+
+Overwriting player information @ 
+C:/Users/Michael/AppData/LocalLow/Reignite Development Team/Reignite/Info.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.284044 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 617.
+Total: 0.473244 ms (FindLiveObjects: 0.053777 ms CreateObjectMapping: 0.019066 ms MarkObjects: 0.383288 ms  DeleteObjects: 0.007333 ms)
+
+Overwriting player information @ 
+C:/Users/Michael/AppData/LocalLow/Reignite Development Team/Reignite/Info.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.227333 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 695.
+Total: 0.509911 ms (FindLiveObjects: 0.031777 ms CreateObjectMapping: 0.037644 ms MarkObjects: 0.421422 ms  DeleteObjects: 0.009288 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.382800 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1080.
+Total: 1.056489 ms (FindLiveObjects: 0.074311 ms CreateObjectMapping: 0.039111 ms MarkObjects: 0.908355 ms  DeleteObjects: 0.023955 ms)
+
+Adella
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Adella_Beginner.xml Not Found @ Assets/Resources/Song Data/Adella_Beginner.xml
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.936044 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 716.
+Total: 0.535822 ms (FindLiveObjects: 0.029822 ms CreateObjectMapping: 0.026400 ms MarkObjects: 0.455644 ms  DeleteObjects: 0.017111 ms)
+

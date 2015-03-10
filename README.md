@@ -15,9 +15,11 @@ You can learn more about _Reignite_ through our development blog, found here: ht
 
 We are:
 
+```
 Michael Swedo, game design and programming
 Deanna Sulli, art and user interface design
 Robert Rojas, writing and conceptualization
+```
 
 We can be reached via email at reignitedev@gmail.com.
 
