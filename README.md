@@ -33,4 +33,8 @@ Known issues:
     
 3. The "New Game" and "Load Game" buttons do not function. This is due to the main game mode not being implemented yet.
 
+4. The Options menu is very unresponsive with the cursor.
+
+5. There is no music on the Options menu.
+
 If any other issues are found, please contact us at reignitedev@gmail.com or @mcswedo on Twitter.
