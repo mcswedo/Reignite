@@ -1,7 +1,13 @@
-LAST UPDATED: March 18, 2015. Previous update March 9, 2015.
+LAST UPDATED: May 2, 2015. Previous update March 18, 2015. 
 
 NEW IN THIS BUILD:
-Intermediate Mozart song chart has been completed. Metronome sound effect added, option to toggle it off in the Options menu. Other minor fixes.
+
+```
+All 16 note charts implemented.
+It is possible to fail songs.
+Minor color / UI changes, including slimming the timing bar and moving it slightly upward to make the timing a bit more intuitive.
+Bug fixes, including small notes being able to turn grey upon missing them.
+```
 
 -----
 
@@ -26,13 +32,9 @@ We can be reached via email at reignitedev@gmail.com.
 -----
 
 Known issues:
-
-1. Attempting to play certain songs on Intermediate or Advanced difficulty will not load a note chart properly.
     
-2. Changing the control scheme in the Options window does not load the proper set of keys in the UI for the rhythm game. The left-hand keyboard keys are set, however, and are UIOP/7890.
+1. Changing the control scheme in the Options window does not load the proper set of keys in the UI for the rhythm game. The left-hand keyboard keys are set, however, and are UIOP/7890.
     
-3. The "New Game" and "Load Game" buttons do not function. This is due to the main game mode not being implemented yet.
-
-4. In the Horizontal mode, the metronome sound does not play.
+2. The "New Game" and "Load Game" buttons do not function. This is due to the main game mode not being implemented yet.
 
 If any other issues are found, please contact us at reignitedev@gmail.com or @mcswedo on Twitter.
